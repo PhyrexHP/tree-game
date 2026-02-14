@@ -5,7 +5,7 @@ enum CALLBACKS {
 }
 
 //table of callback events
-globalvar arraytable_callbacks
+globalvar arraytable_callbacks;
 
 //bind a method to a slot in the callbacks table
 function callbacks_subscribe(_method, _callback_id) {

@@ -35,6 +35,8 @@
   },
   "name":"tree game",
   "resources":[
+    {"id":{"name":"obj_grid_entity","path":"objects/obj_grid_entity/obj_grid_entity.yy",},},
+    {"id":{"name":"obj_grid_floor","path":"objects/obj_grid_floor/obj_grid_floor.yy",},},
     {"id":{"name":"obj_you","path":"objects/obj_you/obj_you.yy",},},
     {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
     {"id":{"name":"scr_callback_table","path":"scripts/scr_callback_table/scr_callback_table.yy",},},

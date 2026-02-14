@@ -35,7 +35,9 @@
   },
   "name":"tree game",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_you","path":"objects/obj_you/obj_you.yy",},},
+    {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
+    {"id":{"name":"scr_callback_table","path":"scripts/scr_callback_table/scr_callback_table.yy",},},
     {"id":{"name":"spr_dig","path":"sprites/spr_dig/spr_dig.yy",},},
     {"id":{"name":"spr_plant","path":"sprites/spr_plant/spr_plant.yy",},},
     {"id":{"name":"spr_you","path":"sprites/spr_you/spr_you.yy",},},
@@ -44,7 +46,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

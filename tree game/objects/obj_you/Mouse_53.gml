@@ -1,1 +1,1 @@
-array_push
+array_push(tasks_array, new WalkTask(mouse_x + round(random_range(-7,7)),mouse_y + round(random_range(-7,7))));

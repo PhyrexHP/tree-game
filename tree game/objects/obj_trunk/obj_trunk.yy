@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_testcursor",
+  "%Name":"obj_trunk",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_testcursor",
+  "name":"obj_trunk",
   "overriddenProperties":[],
   "parent":{
     "name":"phytesting",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_cursorMenus",
-    "path":"sprites/spr_cursorMenus/spr_cursorMenus.yy",
+    "name":"spr_trunk",
+    "path":"sprites/spr_trunk/spr_trunk.yy",
   },
   "spriteMaskId":null,
   "visible":true,

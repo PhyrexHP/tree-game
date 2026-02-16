@@ -10,4 +10,4 @@ if _task.type = "walk"{
 if _task.type = "plant"{
 	sprite_index = spr_youPlant;
 }
-draw_self()
+draw_self();

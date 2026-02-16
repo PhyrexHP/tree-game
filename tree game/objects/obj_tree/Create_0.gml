@@ -1,7 +1,7 @@
 height_int = 0;
 age_int = 0;
 genome_b = 0b00000000;
-stretch = 5;
+stretch = irandom(4)+2;
 //0 = sapling, 1 = roots, 2 = trunk, 3 = canopy
 sprites_array = [spr_sapling, spr_roots, spr_trunk, spr_cap];
 //append tree subimage choices

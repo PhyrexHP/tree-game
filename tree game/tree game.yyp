@@ -55,6 +55,7 @@
     {"id":{"name":"obj_you","path":"objects/obj_you/obj_you.yy",},},
     {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
     {"id":{"name":"rm_phytest","path":"rooms/rm_phytest/rm_phytest.yy",},},
+    {"id":{"name":"rm_treetest","path":"rooms/rm_treetest/rm_treetest.yy",},},
     {"id":{"name":"scr_alchetree","path":"scripts/scr_alchetree/scr_alchetree.yy",},},
     {"id":{"name":"scr_callback_table","path":"scripts/scr_callback_table/scr_callback_table.yy",},},
     {"id":{"name":"scr_consts","path":"scripts/scr_consts/scr_consts.yy",},},
@@ -77,6 +78,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_treetest","path":"rooms/rm_treetest/rm_treetest.yy",},},
     {"roomId":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
     {"roomId":{"name":"rm_phytest","path":"rooms/rm_phytest/rm_phytest.yy",},},
   ],

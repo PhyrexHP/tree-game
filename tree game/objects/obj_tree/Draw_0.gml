@@ -17,5 +17,5 @@ else {
     draw_sprite(sprites_array[0], 0, x, y);
 }
 
-draw_set_colour(c_white);
-draw_text(x, y-TILESIZE, dec_to_bin(subimages_b,height_int+1))
+//draw_set_colour(c_white);
+//draw_text(x, y-TILESIZE, dec_to_bin(subimages_b,height_int+1))

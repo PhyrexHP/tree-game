@@ -1,15 +1,21 @@
 //if the tree is growing up, draw the parts
-if age > 0 {
+if height_int > 0 {
     //roots
-    draw_sprite(sprites_table[1], 0, x, y);
-    //trunk
-    for (var _i = 1; _i < age-1; _i++) {
-    	draw_sprite(sprites_table[2], 0, x, y-(_i*TILESIZE));
-    }
+    draw_sprite(sprites_array[1], real(subimages_b & 0b1), x, y);
+    
     //canopy
-    draw_sprite(sprites_table[3], 0, x, y-((age-1)*TILESIZE));
+    draw_sprite(sprites_array[3], real(subimages_b & 0b10), x, y-((height_int*TILESIZE)));
+    
+    //trunk
+    for (var _i = 1; _i < height_int; _i++) {
+    	draw_sprite(sprites_array[2], real(subimages_b & (0b00 + (0b10 <<(_i)))), x, y-(_i*TILESIZE));
+    }
+    
 }
 //if age is 0 just make a sapling
 else {
-    draw_sprite(sprites_table[0], 0, x, y);
+    draw_sprite(sprites_array[0], 0, x, y);
 }
+
+draw_set_colour(c_white);
+draw_text(x, y-TILESIZE, dec_to_bin(subimages_b,height_int+1))

@@ -54,6 +54,7 @@
     {"id":{"name":"rm_phytest","path":"rooms/rm_phytest/rm_phytest.yy",},},
     {"id":{"name":"scr_alchetree","path":"scripts/scr_alchetree/scr_alchetree.yy",},},
     {"id":{"name":"scr_callback_table","path":"scripts/scr_callback_table/scr_callback_table.yy",},},
+    {"id":{"name":"scr_consts","path":"scripts/scr_consts/scr_consts.yy",},},
     {"id":{"name":"scr_tasks","path":"scripts/scr_tasks/scr_tasks.yy",},},
     {"id":{"name":"spr_cap","path":"sprites/spr_cap/spr_cap.yy",},},
     {"id":{"name":"spr_cursorMenus","path":"sprites/spr_cursorMenus/spr_cursorMenus.yy",},},
@@ -70,8 +71,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_phytest","path":"rooms/rm_phytest/rm_phytest.yy",},},
     {"roomId":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
+    {"roomId":{"name":"rm_phytest","path":"rooms/rm_phytest/rm_phytest.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

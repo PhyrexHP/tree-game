@@ -32,7 +32,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_dirt",
+    "path":"sprites/spr_dirt/spr_dirt.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -32,7 +32,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_grassTile",
+    "path":"sprites/spr_grassTile/spr_grassTile.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

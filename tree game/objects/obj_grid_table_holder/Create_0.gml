@@ -9,7 +9,7 @@ for (var _x = 0; _x < level_width; ++_x) {
         //center the grid on the screen
         var _xx = (_x + ((16 - level_width) div 2))*TILESIZE;
         var _yy = (_y + ((9 - level_height) div 2))*TILESIZE;
-		var _floor = instance_create_layer(_xx,_yy,layer,obj_dirt);
+		var _floor = instance_create_layer(_xx,_yy,layer,obj_floor_grass);
 		with _floor {
 			grid_x = _x;
 			grid_y = _y;

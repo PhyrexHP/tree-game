@@ -35,6 +35,7 @@ if mouse_check_button(mb_right) {
 	slice = (floor(((darctan2(mouse_y - 95,mouse_x - 168)+90)) / (360/7)) + 7) % 7;
 }
 if mouse_check_button_released(mb_right) {
-    global.cursor_state = slice;
-    sprite_index = tools_sprites[slice];
+    var _select = tools_array[slice] ? slice : global.cursor_state;
+    global.cursor_state = _select;
+    sprite_index = tools_sprites[_select];
 }

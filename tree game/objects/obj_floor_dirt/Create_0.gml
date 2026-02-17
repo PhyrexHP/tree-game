@@ -6,5 +6,5 @@ dig = function() {
     
 }
 plant = function() {
-    
+    instance_create_layer(x,y,"Instances",obj_tree);
 }

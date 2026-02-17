@@ -1,5 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
 level_width = 14;
 level_height = 7;
 

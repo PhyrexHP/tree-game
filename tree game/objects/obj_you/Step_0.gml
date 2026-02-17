@@ -2,6 +2,7 @@ if array_first(tasks_array) = undefined exit;
 
 var _finished = tasks_array[0].finished_check({x:x,y:y});
 if (_finished) {
+    tasks_array[0].on_finished();
 	array_delete(tasks_array,0,1);
 }
 else {

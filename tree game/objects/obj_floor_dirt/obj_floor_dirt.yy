@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dirt",
+  "%Name":"obj_floor_dirt",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_dirt",
+  "name":"obj_floor_dirt",
   "overriddenProperties":[],
   "parent":{
-    "name":"phytesting",
-    "path":"folders/phytesting.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":{
     "name":"obj_grid_floor",
@@ -32,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_grassTile",
-    "path":"sprites/spr_grassTile/spr_grassTile.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

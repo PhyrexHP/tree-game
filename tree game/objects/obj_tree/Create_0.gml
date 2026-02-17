@@ -1,3 +1,4 @@
+event_inherited();
 height_int = 0;
 age_int = 0;
 genome_b = 0b00000000;

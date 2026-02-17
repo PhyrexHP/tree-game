@@ -44,6 +44,8 @@
     {"id":{"name":"obj_crt","path":"objects/obj_crt/obj_crt.yy",},},
     {"id":{"name":"obj_dirt","path":"objects/obj_dirt/obj_dirt.yy",},},
     {"id":{"name":"obj_floatie","path":"objects/obj_floatie/obj_floatie.yy",},},
+    {"id":{"name":"obj_floor_dirt","path":"objects/obj_floor_dirt/obj_floor_dirt.yy",},},
+    {"id":{"name":"obj_floor_grass","path":"objects/obj_floor_grass/obj_floor_grass.yy",},},
     {"id":{"name":"obj_grid_entity","path":"objects/obj_grid_entity/obj_grid_entity.yy",},},
     {"id":{"name":"obj_grid_floor","path":"objects/obj_grid_floor/obj_grid_floor.yy",},},
     {"id":{"name":"obj_grid_table_holder","path":"objects/obj_grid_table_holder/obj_grid_table_holder.yy",},},

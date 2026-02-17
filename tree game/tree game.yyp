@@ -41,6 +41,7 @@
   "resources":[
     {"id":{"name":"ac_tree_growth","path":"animcurves/ac_tree_growth/ac_tree_growth.yy",},},
     {"id":{"name":"obj_cap","path":"objects/obj_cap/obj_cap.yy",},},
+    {"id":{"name":"obj_crt","path":"objects/obj_crt/obj_crt.yy",},},
     {"id":{"name":"obj_dirt","path":"objects/obj_dirt/obj_dirt.yy",},},
     {"id":{"name":"obj_floatie","path":"objects/obj_floatie/obj_floatie.yy",},},
     {"id":{"name":"obj_grid_entity","path":"objects/obj_grid_entity/obj_grid_entity.yy",},},
@@ -61,6 +62,7 @@
     {"id":{"name":"scr_consts","path":"scripts/scr_consts/scr_consts.yy",},},
     {"id":{"name":"scr_floatie","path":"scripts/scr_floatie/scr_floatie.yy",},},
     {"id":{"name":"scr_tasks","path":"scripts/scr_tasks/scr_tasks.yy",},},
+    {"id":{"name":"shd_crt","path":"shaders/shd_crt/shd_crt.yy",},},
     {"id":{"name":"spr_cap","path":"sprites/spr_cap/spr_cap.yy",},},
     {"id":{"name":"spr_cursorMenus","path":"sprites/spr_cursorMenus/spr_cursorMenus.yy",},},
     {"id":{"name":"spr_cursorSeed","path":"sprites/spr_cursorSeed/spr_cursorSeed.yy",},},

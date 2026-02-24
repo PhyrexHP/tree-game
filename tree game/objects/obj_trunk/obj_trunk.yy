@@ -8,8 +8,8 @@
   "name":"obj_trunk",
   "overriddenProperties":[],
   "parent":{
-    "name":"phytesting",
-    "path":"folders/phytesting.yy",
+    "name":"tree parts",
+    "path":"folders/Objects/tree parts.yy",
   },
   "parentObjectId":null,
   "persistent":false,

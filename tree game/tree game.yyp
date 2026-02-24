@@ -81,6 +81,7 @@
     {"id":{"name":"spr_youDig","path":"sprites/spr_youDig/spr_youDig.yy",},},
     {"id":{"name":"spr_youPlant","path":"sprites/spr_youPlant/spr_youPlant.yy",},},
     {"id":{"name":"spr_youWalk","path":"sprites/spr_youWalk/spr_youWalk.yy",},},
+    {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

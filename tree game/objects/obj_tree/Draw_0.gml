@@ -1,5 +1,6 @@
 //if the tree is growing up, draw the parts
-if height_int > 0 {
+if (height_int > 0) 
+{
     //roots
     draw_sprite(sprites_array[1], real(subimages_b & 0b1), x, y);
     
@@ -13,9 +14,7 @@ if height_int > 0 {
     
 }
 //if age is 0 just make a sapling
-else {
+else 
+{
     draw_sprite(sprites_array[0], 0, x, y);
 }
-
-//draw_set_colour(c_white);
-//draw_text(x, y-TILESIZE, dec_to_bin(subimages_b,height_int+1))

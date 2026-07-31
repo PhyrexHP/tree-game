@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_acorn",
+    "path":"sprites/spr_acorn/spr_acorn.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

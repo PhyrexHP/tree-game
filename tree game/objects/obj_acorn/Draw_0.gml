@@ -1,1 +1,1 @@
-draw_circle_colour(x,y,2,c_orange,c_orange, false);
+draw_self();
